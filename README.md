@@ -8,6 +8,10 @@ The "IPL Win Predictor" leverages logistic regression to provide insights into t
 ## Project Preview
 ![Capture](https://github.com/rajatrawal/ipl-win-predictor/assets/72153827/071a020f-0bf5-4872-904f-5f9a0e928fd1)
 
+## Demo
+Click on the Below Link
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
+
 ## Usage
 
 To make predictions, provide the following parameters when prompted:
